@@ -1,6 +1,7 @@
 source ~/.vim/my_settings.vim
 source ~/.vim/customization.vim
 source ~/.vim/coc_settings.vim
+source ~/.vim/keymappings/fzf-preview.vim
 
 syntax enable
 
